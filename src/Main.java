@@ -71,7 +71,7 @@ public class Main {
                     } else if (mark >= 40 && mark <= 49.9) {
                         System.out.println(" GRADE E");
                         System.out.println(" INTERPRETATION : FAIL ");
-                        System.out.println("Prepare to resit the paper");
+                        System.out.println("Hello,"+ name.toUpperCase()+ " be prepared to resit the paper");
                         System.out.println("");
 
                     } else if (mark < 30.9) {

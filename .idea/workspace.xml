@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3ccf8915-71fb-4c5a-aaf6-825f097de7c0" name="Changes" comment="">
+    <list default="true" id="3ccf8915-71fb-4c5a-aaf6-825f097de7c0" name="Changes" comment="Refine UCC grading system in Java">
       <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
@@ -42,6 +42,14 @@
       <option name="presentableId" value="Default" />
       <updated>1675759813861</updated>
     </task>
+    <task id="LOCAL-00001" summary="Refine UCC grading system in Java">
+      <created>1675761598037</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1675761598040</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -54,5 +62,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Refine UCC grading system in Java" />
+    <option name="LAST_COMMIT_MESSAGE" value="Refine UCC grading system in Java" />
   </component>
 </project>
